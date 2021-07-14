@@ -2457,6 +2457,43 @@ padding: 0 !important;
 
 /* ================================================================================================================================== */
 
+#app-mount .root-SR8cQa {
+    background: transparent;
+  }
+  #app-mount .root-SR8cQa .topSectionNormal-2-vo2m {
+    background: var(--background-secondary);
+  }
+  #app-mount .root-SR8cQa .topSectionSpotify-1lI0-P {
+    background: rgba(var(--discord-spotify), 0.3);
+  }
+  #app-mount .root-SR8cQa .topSectionPlaying-1J5E4n {
+    background: var(--gradient-50);
+  }
+  #app-mount .root-SR8cQa .topSectionStreaming-1Tpf5X {
+    background: rgba(var(--discord-twitch), 0.3);
+  }
+  #app-mount .root-SR8cQa .topSectionXbox-3fWLjS {
+    background: rgba(var(--discord-xbox), 0.3);
+  }
+  #app-mount .root-SR8cQa .svg-2V3M55 {
+    z-index: 1;
+  }
+  #app-mount .root-SR8cQa .body-3ND3kc {
+    background: transparent;
+  }
+  #app-mount .root-SR8cQa .tabBarContainer-1s1u-z {
+    border: none;
+  }
+  #app-mount .root-SR8cQa .userInfoSection-2acyCx {
+    border: none;
+  }
+  #app-mount .root-SR8cQa .connectedAccount-36nQx7 {
+    background: var(--background-secondary);
+    border: none;
+  }
+
+/* ================================================================================================================================== */
+
 }
 #app-mount [role=menu],
 #app-mount .autocompleteInner-zh20B_,
