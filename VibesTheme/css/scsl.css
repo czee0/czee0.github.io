@@ -2414,3 +2414,80 @@ padding: 0 !important;
           user-select: none;
   z-index: -1;
 }
+
+/* ================================================================================================================================== */
+
+}
+#app-mount .animatedContainer-1pJv5C {
+  -webkit-mask: -webkit-gradient(linear, left top, left bottom, color-stop(60%, rgba(0, 0, 0, 0.9)), to(rgba(0, 0, 0, 0))) !important;
+  -webkit-mask: linear-gradient(rgba(0, 0, 0, 0.9) 60%, rgba(0, 0, 0, 0) 100%) !important;
+  top: 48px;
+  background: transparent;
+}
+
+#app-mount .containerDefault--pIXnN .modeUnread-1qO3K1 .content-1x5b-n {
+  background: var(--white);
+}
+#app-mount .containerDefault--pIXnN .wrapper-1ucjTd:hover .content-1x5b-n {
+  background: var(--background-modifier-hover);
+}
+#app-mount .containerDefault--pIXnN .wrapper-1ucjTd:hover .content-1x5b-n .icon-1DeIlz {
+  color: var(--interactive-hover);
+}
+#app-mount .containerDefault--pIXnN.selected-3LIHYU .content-1x5b-n {
+  background: var(--gradient) !important;
+}
+#app-mount .containerDefault--pIXnN.selected-3LIHYU .content-1x5b-n .icon-1DeIlz {
+  color: var(--text-normal);
+}
+#app-mount .users-i_3-kL {
+  background: var(--white);
+  padding: 0 5px;
+  width: auto;
+}
+#app-mount .total-3tKGEB {
+  background: var(--white-double);
+  padding: 0 5px;
+  width: auto;
+}
+#app-mount .containerUserOver-2mv1jO:after {
+  background: var(--gradient-20);
+  border: 2px solid rgb(var(--gradient-primary));
+}
+
+/* ================================================================================================================================== */
+
+#app-mount .root-SR8cQa {
+    background: transparent;
+  }
+  #app-mount .root-SR8cQa .topSectionNormal-2-vo2m {
+    background: var(--background-secondary);
+  }
+  #app-mount .root-SR8cQa .topSectionSpotify-1lI0-P {
+    background: rgba(var(--discord-spotify), 0.3);
+  }
+  #app-mount .root-SR8cQa .topSectionPlaying-1J5E4n {
+    background: var(--gradient-50);
+  }
+  #app-mount .root-SR8cQa .topSectionStreaming-1Tpf5X {
+    background: rgba(var(--discord-twitch), 0.3);
+  }
+  #app-mount .root-SR8cQa .topSectionXbox-3fWLjS {
+    background: rgba(var(--discord-xbox), 0.3);
+  }
+  #app-mount .root-SR8cQa .svg-2V3M55 {
+    z-index: 1;
+  }
+  #app-mount .root-SR8cQa .body-3ND3kc {
+    background: transparent;
+  }
+  #app-mount .root-SR8cQa .tabBarContainer-1s1u-z {
+    border: none;
+  }
+  #app-mount .root-SR8cQa .userInfoSection-2acyCx {
+    border: none;
+  }
+  #app-mount .root-SR8cQa .connectedAccount-36nQx7 {
+    background: var(--background-secondary);
+    border: none;
+  }
