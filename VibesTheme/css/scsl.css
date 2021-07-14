@@ -2254,3 +2254,90 @@ padding: 0 !important;
 .headerTop-2y3V6H {
     background-color: transparent !important;
 }
+
+/* =========================================================================== */
+
+}
+
+#app-mount [class*=userPopout] {
+  -webkit-box-shadow: none;
+          box-shadow: none;
+  overflow: hidden;
+  opacity: 0;
+  -webkit-animation: fadeIn 0.3s ease forwards;
+          animation: fadeIn 0.3s ease forwards;
+}
+#app-mount [class*=userPopout] .headerNormal-T_seeN {
+  background: transparent;
+}
+#app-mount [class*=userPopout] .headerPlaying-j0WQBV {
+  background: var(--gradient-50);
+}
+#app-mount [class*=userPopout] .headerXbox-3G-4PF {
+  background: rgba(var(--discord-xbox), 0.3);
+}
+#app-mount [class*=userPopout] .headerSpotify-zpWxgT {
+  background: rgba(var(--discord-spotify), 0.3);
+}
+#app-mount [class*=userPopout] .headerStreaming-2FjmGz {
+  background: rgba(var(--discord-twitch), 0.3);
+}
+#app-mount [class*=userPopout] .wrapper-3t9DeA::after {
+  border-radius: 3px;
+}
+#app-mount [class*=userPopout] .activityName-1IaRLn,
+#app-mount [class*=userPopout] .headerTag-2pZJzA,
+#app-mount [class*=userPopout] .nameNormal-2lqVQK,
+#app-mount [class*=userPopout] .nameWrap-3Z4G_9,
+#app-mount [class*=userPopout] .textRow-19NEd_ {
+  color: var(--text-normal);
+}
+#app-mount [class*=userPopout] .body-3iLsc4 {
+  background: transparent;
+}
+#app-mount [class*=userPopout] .role-2irmRk {
+  height: auto;
+  position: relative;
+  overflow: hidden;
+  color: var(--text-normal);
+}
+#app-mount [class*=userPopout] .roleCircle-3xAZ1j::after {
+  content: "";
+  position: absolute;
+  height: 24px;
+  width: 100%;
+  left: 0;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+          transform: translateY(-50%);
+  background: inherit;
+  opacity: 0.2;
+  z-index: -1;
+}
+#app-mount [class*=userPopout] .footer-1fjuF6 {
+  background: transparent;
+  border: none;
+}
+#app-mount [class*=userPopout] .quickMessage-1yeL4E {
+  background: var(--background-secondary);
+  border: none;
+  color: var(--text-normal);
+}
+#app-mount [class*=userPopout] .quickMessage-1yeL4E::-webkit-input-placeholder {
+  color: rgba(255, 255, 255, 0.3);
+}
+#app-mount [class*=userPopout] .quickMessage-1yeL4E::-moz-placeholder {
+  color: rgba(255, 255, 255, 0.3);
+}
+#app-mount [class*=userPopout] .quickMessage-1yeL4E:-ms-input-placeholder {
+  color: rgba(255, 255, 255, 0.3);
+}
+#app-mount [class*=userPopout] .quickMessage-1yeL4E::-ms-input-placeholder {
+  color: rgba(255, 255, 255, 0.3);
+}
+#app-mount [class*=userPopout] .quickMessage-1yeL4E::placeholder {
+  color: rgba(255, 255, 255, 0.3);
+}
+#app-mount [class*=userPopout] .protip-YaFfgO {
+  display: none;
+}
